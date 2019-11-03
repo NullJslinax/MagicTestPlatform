@@ -1,5 +1,5 @@
 aiofiles
-requests==2.18.4
+requests==2.20.0
 wtforms_tornado==0.0.2
 tornado==6.0.3
 WTForms==2.2.1
